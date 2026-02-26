@@ -1,7 +1,7 @@
 {
   "functions": {
-    "api/*.js": {
-      "runtime": "@vercel/node"
+    "api/*.py": {
+      "runtime": "python3.9"
     }
   }
 }
